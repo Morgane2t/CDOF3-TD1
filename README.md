@@ -18,6 +18,4 @@
 [PaulLabat-to_do_list](https://github.com/paullbt/to_do_list-labat-CDOF3)
 [laculture-lusardi-td3](https://github.com/Enzolus/laculture)
 [PotonneFlorian-GameOfLife](https://github.com/Flozoui/GameOfLife-FlorianPOTONNE-CDOF3)
-
-[Alex Roussel - Quiz Python] (https://github.com/alexr6/Quiz-game-Alex-Roussel-CCC2.git)
-
+[ToDoList-Morgane2t-CODF3](https://github.com/Morgane2t/ToDoList-Morgane2t-CODF3.git)
